@@ -2,10 +2,10 @@
     <img align="right" height="180px" src="profile.gif" alt="Profile picture" /><br>
     <h3>Hi there, I'm Fedo!</h3>
     <p>
-        I am a **Backend Developer** specializing in high-performance backend systems, data optimization, and web security. 
-        - Currently focusing on building reliable, scalable APIs and optimizing legacy applications.
-        - Deeply interested in high-performance computing, SIMD vectorization, and data processing.
-        - Committed to writing secure code following OWASP standards and SOLID principles.
+        I am a Backend Developer specializing in high-performance backend systems, data optimization, and web security. 
+- Currently focusing on building reliable, scalable APIs and optimizing legacy applications.
+- Deeply interested in high-performance computing, SIMD vectorization, and data processing.
+- Committed to writing secure code following OWASP standards and SOLID principles.
     </p>
 </div>
 
