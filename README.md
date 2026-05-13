@@ -23,3 +23,8 @@ I am a **Backend Developer** specializing in high-performance backend systems, d
     <img width="440px" src="https://github-readme-stats-git-main-oestradiol.vercel.app/api?username=fedodudkin&show_icons=true&theme=cobalt&hide_border=true&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=19&include_all_commits=true" alt="GitHub stats" />
     <img width="273px" src="https://github-readme-stats-git-main-oestradiol.vercel.app/api/top-langs?username=fedodudkin&theme=cobalt&layout=compact&hide_border=true&langs_count=14&exclude_repo=github-readme-streak-stats,github-readme-stats&hide=html&bg_color=00000000" alt="Top langs stats" />
 </div>
+
+<div>
+    <img align="center" height="180px" src="profile.gif" alt="Profile picture" /><br>
+</div>
+
