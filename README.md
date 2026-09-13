@@ -1,23 +1,23 @@
-<div>
-  <img align="right" height="180px" src="profile.gif" alt="Profile picture" />
-  <br>
-  <h3>Hi there, I'm Fedo!</h3>
-  <p>I am a <b>Backend Developer</b> specializing in high-performance backend systems, data optimization, and web security.</p>
-  <ul>
-    <li>Currently focusing on building reliable, scalable APIs and optimizing legacy applications.</li>
-    <li>Deeply interested in high-performance computing, SIMD vectorization, and data processing.</li>
-    <li>Committed to writing secure code following OWASP standards and SOLID principles.</li>
-  </ul>
+<div align="center">
+  <img height="180px" src="profile.gif" alt="Profile picture" />
+  <h3>Hi there, I'm Fedo! 👋</h3>
+  <p><b>Backend Developer</b> specializing in high-performance backend systems, LLM/RAG services, and data security.</p>
 </div>
+
+- Currently building an **MVP RAG system** during my backend internship at **GS1 RUS**
+- Deeply interested in high-performance computing: **SIMD vectorization (Mojo/AVX-512)**, async architectures, and data processing at scale
+- Committed to writing secure code following **OWASP** standards and **SOLID** principles
+- Finishing my degree in Information Systems & Programming (graduating 2027)
 
 ---
 
 ### 💻 Tech Stack & Tools
 
-- **Languages:** Python, PHP, Mojo (SIMD), TypeScript, JavaScript
-- **Frameworks & Libraries:** FastAPI, Django, DRF, React, Tailwind CSS v4, SQLAlchemy
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **DevOps & Infrastructure:** Docker (Multi-stage), Nginx, Apache
+- **Languages:** Python, Mojo (SIMD), PHP, TypeScript, JavaScript
+- **Backend & Frameworks:** FastAPI, Django, DRF, SQLAlchemy, asyncio
+- **AI / RAG:** LLM integration, vector search (Qdrant), sentence-transformers, ONNX Runtime, llama.cpp, prompt engineering
+- **Data & Queues:** PostgreSQL, MySQL, SQLite, Redis, Taskiq
+- **DevOps & Infra:** Docker (multi-stage), Nginx, Apache
 - **Testing & Tools:** Pytest, PHPUnit, OpenAPI/Swagger, Git
 
 ---
